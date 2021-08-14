@@ -1,0 +1,5 @@
+print("Hola, Bienvenido, este programa calcula el promedio de los numeros que ingreses")
+numero1=float(input("Ingresa el primer número:"))
+numero2=float(input("Ingresa el segundo número:"))
+numero3=float(input("Ingresa el tercer número:"))
+print("El promedio de los tres es", (numero1+numero2+numero3)/3)
